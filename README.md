@@ -335,6 +335,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Educational technology pioneers for inspiration
 
 ---
+Contact Address: 0xd9145CCE52D386f254917e481eB44e9943F39138
+<img width="1860" height="870" alt="Screenshot 2025-07-29 130918" src="https://github.com/user-attachments/assets/79fe8792-b772-4b3b-a540-d5a0e57d2b58" />
+
+
 
 **Built with ❤️ for the future of education on blockchain**
 
